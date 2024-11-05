@@ -1,5 +1,3 @@
-theme: just-the-docs
-
 collections:
   authors:
     output: true
