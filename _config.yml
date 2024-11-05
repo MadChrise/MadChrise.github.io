@@ -1,2 +1,3 @@
 configuration:
   authors:
+    output: true
