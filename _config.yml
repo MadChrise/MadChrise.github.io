@@ -1,3 +1,5 @@
+theme: just-the-docs
+
 collections:
   authors:
     output: true
@@ -12,7 +14,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: "posts"
   - scope:
       path: ""
     values:
