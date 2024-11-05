@@ -1,4 +1,4 @@
-configuration:
+collections:
   authors:
     output: true
 
